@@ -7,7 +7,7 @@ const card = document.querySelector('.card');
 const canvas = document.getElementById('bg');
 const ctx = canvas.getContext('2d');
 
-const message = 'Agente Deylin Celeste... una misión secreta ha aparecido en tu mapa. Recompensa legendaria: una tarde romántica conmigo. ¿Te gustaría tener una cita romántica conmigo?';
+const message = 'Agente Deylin Celeste,Niña de Ojos Cafes... una misión secreta ha aparecido en tu mapa,Un Evento que empieza una nueva Etapa. Recompensa legendaria:El inicio de Una historia que tenia que ser contada. ¿Te gustaría tener una cita romántica conmigo?';
 
 let messageIndex = 0;
 
